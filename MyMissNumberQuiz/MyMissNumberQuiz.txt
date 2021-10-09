@@ -1,0 +1,62 @@
+MyAlpabetQuiz
+
+Notes:
+-------
+
+
+
+Message Window
+--------------
+udmQuestionMsgWinSeq1
+udmQuestionMsgWinSeq2
+udmQuestionMsgWinSeq3
+
+
+udmOption1MsgWin
+udmOption2MsgWin
+udmOption3MsgWin
+
+Variables
+-----------
+varQueSeq1
+varQueSeq2
+varQueSeq3
+
+
+Note: varMissingTextCorrectAns and have varAnsCorrectOption Same Content
+Just added for readability
+
+varMissingTextCorrectAns
+
+varAnsCorrectOption
+varAnsWrongOption1
+varAnsWrongOption2
+
+varCorrectOptionPos
+varWrongOption1Pos
+varWrongOption2Pos
+
+Macro (Arguments/Inputs Return Values/Output)
+-----------
+varArgText1
+varArgText2
+varRetText
+
+
+Macro Names
+--------------
+macInitQuestionVar
+macInitAnswerVar
+
+macScaleUtilQuestionMissPositionRandom_varRetText
+macScaleUtilRangeRandom_varRetText
+macScaleUtilRangeShortRandom_varRetText
+
+macUtilGetDiffText_varArgText1_varArgText2_varRetText
+
+macCommSetAnswerOptionText_varArgOptionPos_varArgOptionText
+
+
+
+Button Names
+------------
