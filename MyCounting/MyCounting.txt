@@ -1,0 +1,33 @@
+My Counting
+
+Notes:
+-------
+Small Button Size 96 x 96
+Big Border Button Size 140 x 140
+
+
+Message Window
+--------------
+udmQuestionCount
+udmAnswerCount
+
+Variables
+-----------
+varExpectedResultCount
+varActualCount
+
+varIsSelSquare01 (T/F)
+
+Button Names
+------------
+butSquare01
+butSquareBackground01
+
+Macro Names
+--------------
+macSetButSelectionFlag_varArgNum_varArgFlag
+macOnSqaureButtonClick_varArgNum_varArgFlag
+
+macOnSqaureButtonClick_varArgNum
+macSetButSelectedPic_varArgNum 
+	varArgNum : Button Position

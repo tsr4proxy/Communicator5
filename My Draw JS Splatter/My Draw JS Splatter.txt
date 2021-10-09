@@ -1,0 +1,24 @@
+My Counting
+
+Notes:
+-------
+My Draw JS Splatter - 3B
+
+Horizontal - 3 Buttons 384 px
+
+
+Message Window
+--------------
+
+Variables
+-----------
+varArgNumButNum
+
+Button Names
+------------
+butColorBackgroundButton1  --- butColorBackgroundButtonX
+
+
+Macro Names
+--------------
+macColorButtonOnClick_varArgNumButNum
