@@ -5,12 +5,14 @@ Notes:
 
 
 
-Message Window
---------------
+Question Message Window
+------------------------
 udmQuestionMsgWinSeq1
 udmQuestionMsgWinSeq2
 udmQuestionMsgWinSeq3
 
+Answer Message Window
+------------------------
 
 udmOption1MsgWin
 udmOption2MsgWin

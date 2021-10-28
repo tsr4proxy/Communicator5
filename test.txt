@@ -1,0 +1,19 @@
+
+Message Windows
+----------------
+udmTest1
+udmTest2
+udmTest3
+
+
+Variables
+------------
+varTest1
+varTest2
+
+
+
+Macro
+----------
+macUtilTestRandom ( varTest )
+Macunittest random except3 ( varTest2 )
