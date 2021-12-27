@@ -1,0 +1,53 @@
+MyQuizTemplate
+
+https://whimsical.com/tobii-c5-quiz-app-VgntYHWrhRKPHDGCuckoZw
+
+
+Notes:
+-------
+
+
+
+Question Message Window
+------------------------
+udmTempMsgWinCorrectAns
+udmTempMsgWinWrongAns1
+udmTempMsgWinWrongAns2
+
+
+
+
+Answer Message Window
+------------------------
+udmOption1MsgWin
+udmOption2MsgWin
+udmOption3MsgWin
+
+Question Variables
+-------------------
+varCorrectOption
+varWrongOption1
+varWrongOption2
+
+Answer Variables
+-------------------
+varCorrectOptionPos
+varWrongOption1Pos
+varWrongOption2Pos
+
+
+
+Macro (Arguments/Inputs Return Values/Output)
+-----------
+varArgOptionPos
+varArgOptionText
+
+
+
+Macro Names
+--------------
+
+
+
+Button Names
+------------
